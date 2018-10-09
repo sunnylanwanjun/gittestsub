@@ -1,0 +1,2 @@
+# gittestsub
+test git submodule
